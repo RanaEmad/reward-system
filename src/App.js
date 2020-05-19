@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Switch, Route } from 'react-router-dom';
 import NotFoundPage from './NotFoundPage';
 import HomePage from './HomePage';
-import LoginPage from './LoginPage';
+import LoginPage from './components/Login/LoginPage';
 
 function App() {
   return (
